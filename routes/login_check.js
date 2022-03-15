@@ -8,4 +8,4 @@ function check_logged(req, res) {
 }
 
 module.exports = check_logged;
-ok
+123
