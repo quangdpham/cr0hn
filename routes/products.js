@@ -5,7 +5,7 @@ var db_products = require("../model/products");
 var router = express.Router();
 
 
-/* GET home page. */
+/* GET home page. *//
 router.get('/', function(req, res, next) {
 
     check_logged(req, res);
